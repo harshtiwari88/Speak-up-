@@ -1,0 +1,6 @@
+{
+  "name": "TalkFlow English Coach",
+  "description": "Android-style English fluency coach featuring real-time pronunciation analysis, speech recognition, talkative AI conversation simulations, and vocabulary booster.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
